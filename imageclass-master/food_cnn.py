@@ -88,6 +88,8 @@ classifierc.save_weights('./models/food/cooked/weights.h5')
 
 
 
+
+
 #Initialize the CNN
 classifierf = Sequential()
 #Convolution and Max pooling
